@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.youtube" name="Beach Libraries Repository" version="6.8.2" provider-name="Fantasymerlin">
+    <extension point="xbmc.addon.repository" name="Libraries Repository">
+        <info compressed="false">https://github.com/Fantasymerlin/beach-common/raw/master/addons.xml</info>
+        <checksum>https://github.com/Fantasymerlin/beach-common/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Fantasymerlin/beach-common/raw/master/zips/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary></summary>
+        <description>Beach Repo Updates</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
